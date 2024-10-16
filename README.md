@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋<i class="devicon-vuejs-plain"></i>
 
 
 - 🔭 I’m currently working o
@@ -9,6 +9,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<i class="devicon-vuejs-plain"></i>
 
