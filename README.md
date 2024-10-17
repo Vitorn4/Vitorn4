@@ -1,9 +1,5 @@
 ## Hi there 👋
-<img loading="lazy"
-src="https://cdn.jsdelivr.net
-/gh/devicons/devicon/icons/gi
-t/git-original.svg"
-width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitess/vitess-plain.svg" />
 - 🔭 I’m currently working o
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
